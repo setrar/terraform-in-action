@@ -1,5 +1,7 @@
 # terraform-in-action
 
+[:gear: Install first](INSTALL.md)
+
 Book studies [Terrraform In Action](https://www.manning.com/books/terraform-in-action)
 
 | Listing | Description |
