@@ -26,7 +26,13 @@ terraform plan -out plan.save
 terraform apply "plan.save"
 ```
 
+- [ ] Run in [parallel](https://www.terraform.io/docs/cli/commands/apply.html#parallelism-n)
 
+* Default 10
+
+```
+terraform plan -parallelism=8 
+```
 
 
 
