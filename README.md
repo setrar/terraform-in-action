@@ -1,6 +1,6 @@
 # terraform-in-action
 
-[:gear: Install first](INSTALL.md)
+[Install first :point_left:](INSTALL.md)
 
 Book studies [Terrraform In Action](https://www.manning.com/books/terraform-in-action)
 
