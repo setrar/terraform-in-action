@@ -34,7 +34,7 @@ terraform apply "plan.save"
 terraform plan -parallelism=8 
 ```
 
- - [ ] Run the graph
+ - [ ] Run the `dependency` graph
 
 ```
 terraform graph
