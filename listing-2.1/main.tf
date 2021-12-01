@@ -10,6 +10,7 @@ terraform {
 
 resource "local_file" "literature" {
   filename = "art_of_war.txt"
+  // issue in book
   content  = <<-EOT
      Sun Tsu said: The art of war is of vital importance to the state.
      
