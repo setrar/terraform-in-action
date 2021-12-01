@@ -1,5 +1,6 @@
 # terraform-in-action
-Book studies Terrraform In Action
+
+Book studies [Terrraform In Action](https://www.manning.com/books/terraform-in-action)
 
 | Listing | Description |
 |---------|-------------|
