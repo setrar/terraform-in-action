@@ -72,11 +72,3 @@ aws_instance.helloworld: Destruction complete after 2m12s
 Destroy complete! Resources: 1 destroyed.
 ```
 
-# References
-
-| File | Description |
-|------|-------------|
-| [.terraform.lock.hcl](.terraform.lock.hcl) | This file is maintained automatically by "terraform init". |
-| [terraform.tfstate](terraform.tfstate) | |
-| [terraform.tfstate.backup](terraform.tfstate.backup) | |
-| `.terraform` | binary files - Not saved in `git` |
