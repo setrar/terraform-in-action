@@ -8,3 +8,4 @@ Book studies [Terrraform In Action](https://www.manning.com/books/terraform-in-a
 |---------|-------------|
 | [:one:.:two:](listing-1.2) | |
 | [:one:.:three:](listing-1.3) | |
+| [:two:.:one:](listing-2.1) | |
