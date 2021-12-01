@@ -12,5 +12,21 @@ export TF_LOG=trace
 unset TF_LOG
 ```
 
+:a: Plan
+
+- [ ] Save the plan
+
+```
+terraform plan -out plan.save
+```
+
+- [ ] Run the saved plan
+
+```
+terraform apply "plan.save"
+```
+
+
+
 
 
