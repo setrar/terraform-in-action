@@ -14,16 +14,33 @@ unset TF_LOG
 
 :a: Plan
 
-- [ ] Save the plan
+- [ ] Save the plan in binary file
 
 ```
-terraform plan -out plan.save
+terraform plan -out plan.out
 ```
+
+- [ ] Show the saved plan in `json`
+
+```
+terraform show -json plan.out > plan.json
+```
+
+* show the `json` file
+
+```
+jq . plan.json
+```
+
+```
+jq .terraform_version plan.json --raw-output
+```
+> 1.0.11
 
 - [ ] Run the saved plan
 
 ```
-terraform apply "plan.save"
+terraform apply "plan.out"
 ```
 
 - [ ] Run in [parallel](https://www.terraform.io/docs/cli/commands/apply.html#parallelism-n)
