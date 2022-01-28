@@ -19,7 +19,6 @@ choco install terraform
 
 ```
 terraform --version
+Terraform v1.1.4
+on darwin_arm64
 ```
-> Terraform v1.0.11
-> on darwin_arm64
-
