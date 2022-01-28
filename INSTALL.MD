@@ -18,7 +18,7 @@ choco install terraform
 - [ ] :bulb: Version
 
 ```
-terraform --version
+$ terraform --version
 Terraform v1.1.4
 on darwin_arm64
 ```
