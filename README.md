@@ -1,6 +1,6 @@
 # terraform-in-action
 
-[Install first :point_left:](INSTALL.md)
+[Install first :point_left:](install)
 
 Book studies [Terrraform In Action](https://www.manning.com/books/terraform-in-action)
 
